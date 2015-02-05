@@ -18,3 +18,4 @@ The household power consumption dataset from <http://archive.ics.uci.edu/ml> mea
 ###**Loading the data**
 Only data taken from dates 2007-02-01 and 2007-02-02 were read into and then convert to the appropriate classes.
 # ExData
+# ExData
